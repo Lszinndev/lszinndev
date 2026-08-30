@@ -46,10 +46,6 @@ Welcome to my GitHub page. I'm Lorenzo Sorrentino, in my 3rd year (out of 4) of 
 
 </details>
 
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lszinndev&theme=algolia&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 <div align="center">

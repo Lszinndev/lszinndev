@@ -1,97 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1230&height=200&section=header&text=Hi,%20I'm%20Lorenzo%20👋&fontSize=36&fontColor=e6e6e6&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="justify">
-Welcome to my GitHub page. I'm Lorenzo Sorrentino, a Software Engineering student based in Paraná, Brazil, focused on becoming an Apple developer (iOS/macOS). I'm currently learning Swift and SwiftUI, and I like poking at terminal tools and agentic dev workflows along the way.
+Welcome to my GitHub page. I'm Lorenzo Sorrentino, in my 3rd year (out of 4) of a Software Engineering degree, based in Paraná, Brazil. I work at <strong>Optimall</strong>, part of the <strong>Tacla Shopping</strong> group, and outside of that I'm learning Swift and SwiftUI while poking at terminal tools and agentic dev workflows.
 </p>
 
 ## My favorite tools and technologies ⚙️
 
-> Tools and technologies I've worked with and am currently learning
+> Stacks I use at work, at college, and on my own projects
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
-      <br>Swift
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
-      <br>ASP.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      <br>React Native
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=swift,cs,dotnet,java,kotlin,c,react,html,css,js,ts,python,bash,postgres,sqlite,mysql,git,github&perline=9" />
+
+</div>
+
+<div align="center">
+<sub>Swift · C# · ASP.NET · Java · Kotlin · C · React / React Native · HTML · CSS · JavaScript · TypeScript · Python · Bash · PostgreSQL · SQLite · MySQL · Git · GitHub</sub>
+</div>
 
 ## GitHub stats 📊
 
@@ -132,5 +57,5 @@ Welcome to my GitHub page. I'm Lorenzo Sorrentino, a Software Engineering studen
 ---
 
 <div align="center">
-<sub>iOS/macOS developer in the making — Paraná, Brazil 🇧🇷</sub>
+<sub>Software Engineering student (3rd/4th year) · Optimall @ Tacla Shopping — Paraná, Brazil 🇧🇷</sub>
 </div>

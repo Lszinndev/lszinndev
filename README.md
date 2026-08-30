@@ -23,30 +23,31 @@ Welcome to my GitHub page. I'm Lorenzo Sorrentino, in my 3rd year (out of 4) of 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lszinndev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Lszinndev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lszinndev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lszinndev&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="192px"/></a>
-  <br/>
+
+<img alt="Lszinndev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lszinndev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="192px"/>
+<img alt="Lszinndev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lszinndev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="192px"/>
+
 </details>
 
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Lorenzo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lszinndev&bg_color=0d1117&color=a78bfa&line=a78bfa&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lszinndev&bg_color=0d1117&color=a78bfa&line=a78bfa&point=e6e6e6&area=true&hide_border=true" alt="Lorenzo's github activity graph"/>
 
 </details>
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Lszinndev&label=PROFILE+VIEWS&style=for-the-badge&color=a78bfa">
+  <img src="https://komarev.com/ghpvc/?username=Lszinndev&label=PROFILE+VIEWS&style=for-the-badge&color=a78bfa" alt="profile views"/>
 
 </details>
 
 <details>
   <summary>Streak 🔥</summary>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lszinndev&theme=default&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Lszinndev&theme=dark&background=0D1117&border=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B8B8B&hide_border=true" alt="streak stats"/>
 
 </details>
 

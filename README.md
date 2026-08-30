@@ -23,12 +23,72 @@ Welcome to my GitHub page. I'm Lorenzo Sorrentino, a Software Engineering studen
       <br>Xcode
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
+      <br>ASP.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
       <br>Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />

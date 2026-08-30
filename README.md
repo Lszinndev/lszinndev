@@ -1,53 +1,88 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1230&height=200&section=header&text=Hi,%20I'm%20Lorenzo%20👋&fontSize=36&fontColor=e6e6e6&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1230&height=180&section=header&text=Lorenzo%20Sorrentino&fontSize=38&fontColor=e6e6e6&fontAlignY=45&desc=iOS%20%2F%20macOS%20developer%20in%20progress&descAlignY=68&descSize=15&descAlign=50&animation=fadeIn" width="100%"/>
+<p align="justify">
+Welcome to my GitHub page. I'm Lorenzo Sorrentino, a Software Engineering student based in Paraná, Brazil, focused on becoming an Apple developer (iOS/macOS). I'm currently learning Swift and SwiftUI, and I like poking at terminal tools and agentic dev workflows along the way.
+</p>
 
-</div>
+## My favorite tools and technologies ⚙️
 
-<br/>
-
-```diff
-+ log --oneline
-```
-
-```
-2026  studying Software Engineering, aiming at Apple's ecosystem
-2026  learning Swift, SwiftUI, and how Xcode actually wants to be used
-2026  poking at agentic dev tools (this repo included) in my spare time
-????  shipping the first real iOS app
-```
-
-<br/>
+> Tools and technologies I've worked with and am currently learning
 
 <table>
-<tr>
-<td valign="top" width="55%">
-
-**stack**
-
-`Swift`&nbsp; `SwiftUI`&nbsp; `Xcode`
-`Python`&nbsp; `Bash`&nbsp; `Git`
-
-**based in**
-
-Paraná, Brazil 🇧🇷
-
-</td>
-<td valign="top" width="45%">
-
-```
-if you.reading(this) == True:
-    print("hey 👋 — thanks for stopping by")
-```
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="Apple" />
+      <br>iOS / macOS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
+      <br>Xcode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
 </table>
 
-<br/>
+## GitHub stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lszinndev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Lszinndev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lszinndev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lszinndev&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Lorenzo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lszinndev&bg_color=0d1117&color=a78bfa&line=a78bfa&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Lszinndev&label=PROFILE+VIEWS&style=for-the-badge&color=a78bfa">
+
+</details>
+
+<details>
+  <summary>Streak 🔥</summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lszinndev&theme=default&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&hide_border=true" alt="streak stats"/>
+
+</details>
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lszinndev&theme=algolia&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=555555&center=true&vCenter=true&width=520&lines=this+file+changes+as+I+learn+more+%E2%80%94+not+a+static+bio" alt="footer note"/>
+<sub>iOS/macOS developer in the making — Paraná, Brazil 🇧🇷</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1230,100:0d1117&height=100&section=footer" width="100%"/>

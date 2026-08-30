@@ -15,14 +15,6 @@ Welcome to my GitHub page. I'm Lorenzo Sorrentino, a Software Engineering studen
       <br>Swift
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="Apple" />
-      <br>iOS / macOS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
-      <br>Xcode
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       <br>C#
     </td>
@@ -97,10 +89,6 @@ Welcome to my GitHub page. I'm Lorenzo Sorrentino, a Software Engineering studen
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
     </td>
   </tr>
 </table>

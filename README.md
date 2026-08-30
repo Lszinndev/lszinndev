@@ -1,5 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1230&height=200&section=header&text=Hi,%20I'm%20Lorenzo%20👋&fontSize=36&fontColor=e6e6e6&animation=fadeIn&fontAlignY=40" width="100%"/>
 
+<div align="center">
+
+<a href="https://www.instagram.com/lorenzinn_/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lorenzo-s-aa3a27209/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
 <p align="justify">
 Welcome to my GitHub page. I'm Lorenzo Sorrentino, in my 3rd year (out of 4) of a Software Engineering degree, based in Paraná, Brazil. I work at <strong>Optimall</strong>, part of the <strong>Tacla Shopping</strong> group, and outside of that I'm learning Swift and SwiftUI while poking at terminal tools and agentic dev workflows.
 </p>
@@ -19,23 +31,6 @@ Welcome to my GitHub page. I'm Lorenzo Sorrentino, in my 3rd year (out of 4) of 
 </div>
 
 ## GitHub stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-
-<img alt="Lszinndev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lszinndev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="192px"/>
-<img alt="Lszinndev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lszinndev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="192px"/>
-
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lszinndev&bg_color=0d1117&color=a78bfa&line=a78bfa&point=e6e6e6&area=true&hide_border=true" alt="Lorenzo's github activity graph"/>
-
-</details>
 
 <details>
   <summary>Profile Views 👁️</summary>

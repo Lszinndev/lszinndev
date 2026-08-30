@@ -24,8 +24,8 @@ Welcome to my GitHub page. I'm Lorenzo Sorrentino, in my 3rd year (out of 4) of 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
 
-<img alt="Lszinndev's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lszinndev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="192px"/>
-<img alt="Lszinndev's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lszinndev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="192px"/>
+<img alt="Lszinndev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lszinndev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="192px"/>
+<img alt="Lszinndev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lszinndev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="192px"/>
 
 </details>
 
